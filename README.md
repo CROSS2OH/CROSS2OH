@@ -1,9 +1,6 @@
 ## CROSS2OH
 
 CROSS2OH,an automated technique for porting Linux-based software to OpenHarmony.
-
-## Downloads
-[**CROSS2OH**](https://github.com/CROSS2OH/CROSS2OH/tree/main)
 ## Run CROSS2OH
 
 - Step 1
