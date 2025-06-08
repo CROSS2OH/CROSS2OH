@@ -1,0 +1,41 @@
+# linux compiled c/ C ++ project compressed package path
+TESTPROZIPPATH: ""
+
+# The path for unzipped project
+TESTPROPATH: ""
+
+# The output path for detected CPI issues.
+RESULTPATH: ""
+
+# The tpc_c_cplusplus/thirdparty directory serves as the execution path for the cross-compilation process.
+THIRDPARTY_PATH: ""
+
+# The installation directory of the Lycium repository.
+PATH: ""
+
+# OpenHarmony SDK path
+OHOS_SDK_PATH: ""
+
+# The path to Lycium’s core execution script build.sh.
+SCRIPT_PATH: ""
+
+# The path of CTags
+CTAGS_PATH: ""
+
+# The output path to generate CTags tag file.
+CTAGS_OUTPUTFILEPATH: ""
+
+# The path for copying source files during patch generation.
+TEMPDIRECTORYPATH: ""
+
+# The path to store patch files.
+PATCHOUTPUTDIRPATH: ""
+
+# HPKBUILD (CMake)
+HPKBUILD_CMAKE_PATH: ""
+
+# HPKBUILD (Configure)
+HPKBUILD_CONFIGURE_PATH: ""
+
+# HPKBUILD (Make)
+HPKBUILD_MAKE_PATH: ""
